@@ -4,7 +4,7 @@
 
 To enable PHPUnit support and run it from within PhpStorm, follow [this guide](https://www.jetbrains.com/phpstorm/help/enabling-phpunit-support.html).
 
-Ideally, the best approach would be to run PHPUnit from Composer, but as of this writing (March 2016) we don't use Composer on at least some of our projects, therefore in that case the way to go is to follow the instructions under the section *[Running PHPUnit from the phpunit.phar archive](https://www.jetbrains.com/phpstorm/help/enabling-phpunit-support.html#usePhpUnitFromPhar)*.
+Ideally, the best approach would be to run PHPUnit from Composer, but in case you're working on a project that doesn't use Composer, the way to go is to follow the instructions under the section *[Running PHPUnit from the phpunit.phar archive](https://www.jetbrains.com/phpstorm/help/enabling-phpunit-support.html#usePhpUnitFromPhar)*.
 
 A good idea would be to place the executable in your OS's `PATH`. To do that, write the following on a terminal:
 
