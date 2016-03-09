@@ -42,6 +42,6 @@ Besides obvious version control functionalities like pull/checkout, commit, push
 
 ## Database
 
-A database integration couldn't be missing from PhpStorm. With PhpStorm, there is no need to use external software to handle database queries. You can comfortably look at your tables/collections and safely run your queries the built-in console.
+A database integration couldn't be missing from PhpStorm. With PhpStorm, there is no need to use external software to handle database queries. You can comfortably look at your tables/collections and safely run your queries using the built-in [console](https://www.jetbrains.com/phpstorm/help/working-with-database-consoles.html?search=database).
 
-Several database engines are supported, including MySql, Postgres, Oracle, SQLite and SQL Server. No official support appears to be available for NoSQL databases, but plugins can be found for [Mongo](https://plugins.jetbrains.com/plugin/7141). 
+Several database engines are supported, including MySql, Postgres, Oracle, SQLite and SQL Server. No official support appears to be available for NoSQL databases, but plugins can be found for [Mongo](https://plugins.jetbrains.com/plugin/7141).
